@@ -1,3 +1,5 @@
+/* _____________________________________________________________________ */
+/* LANDING PAGE */
 body, h1, p, input, button {
     margin: 0;
     padding: 0;
@@ -76,5 +78,16 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.divider{
+    height: 1px;
+    background-color: #dbdbdb;
+    margin:  15px 0;
+}
+/* ___________________________________________________________________ */
+/* FEED */
 
+header {
+    background-color: #ffffff;
+    border-bottom: 1
+}
 
